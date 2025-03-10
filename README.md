@@ -42,3 +42,9 @@ The data was obtained from **Spotify Web API** and academic literature on linear
 
 ## 📌 Key Insights  
 The findings indicate that **certain musical characteristics significantly impact a song’s radio success**. High danceability, positive energy, and the absence of explicit content increase a song’s chances of becoming a hit.  
+
+## 👥 Authors 
+- [Amelia Posiadała](https://github.com/posiadalamelia)
+- [Oliwia Strzelec] (https://github.com/StrzelecO)
+- [Szymon Mlonek] 
+- [Tomasz Niewiadomski]
