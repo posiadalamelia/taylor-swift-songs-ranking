@@ -46,5 +46,5 @@ The findings indicate that **certain musical characteristics significantly impac
 ## 👥 Authors 
 - [Amelia Posiadała](https://github.com/posiadalamelia)
 - [Oliwia Strzelec](https://github.com/StrzelecO)
-- Szymon Mlonek
+- [Szymon Mlonek](https://github.com/symlnk)
 - Tomasz Niewiadomski
